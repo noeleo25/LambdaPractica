@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Cometario prueba
+
 namespace TuplasLambdaPractica
 {
     delegate int Operacion(int x, int y); //para ejercicio lambda 1
